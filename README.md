@@ -17,6 +17,7 @@
 * Kyle Simpson – https://me.getify.com/
 * Max Schwarzmuller – https://www.udemy.com/user/maximilian-schwarzmuller/
 * Steven Grider – https://www.udemy.com/user/sgslo/
+* Mirosław Zelent - https://pasja-informatyki.pl/
 
 ## Podcasty
 * Complete developer podcast – https://completedeveloperpodcast.com/
